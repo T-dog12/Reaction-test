@@ -25,7 +25,7 @@ public class StartUp extends JFrame implements ActionListener{
 			{2,""},
 			{3,""},
 			{"Mean",""}};
-	long[] times = new long[2];
+	long[] times = new long[3];
 	
 	//sets timers to start/check the button
 	Timer xTimer;
